@@ -1,0 +1,2 @@
+This is a simple program to run a program detached from the console with stdin/stdout/stderr
+re-directed to /dev/null.
